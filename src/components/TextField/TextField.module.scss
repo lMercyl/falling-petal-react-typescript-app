@@ -1,0 +1,15 @@
+.input {
+  padding: 1rem 2rem;
+  width: 100%;
+  border: none;
+  font-family: 'Press Start 2P', sans-serif;
+  font-size: 2rem;
+  color: #bdb7de;
+  background-color: #1a1e28;
+  outline: none;
+  border-radius: 20px;
+
+  &::placeholder {
+    color: #bdb7de79;
+  }
+}
